@@ -1,4 +1,6 @@
-# AngularStore
+# Angular Store
+
+Recreating the PlayStation Store Interface with Angular based on Digital Innovation One bootcamp.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
